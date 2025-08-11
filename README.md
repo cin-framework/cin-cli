@@ -66,7 +66,7 @@ CIN-CLI is supported on the following operating systems:
 </div>
 
 First, you must choose the appropriate version. Here are the available versions:
-[https://github.com/cin-framework/cin-cli/releases](https://github.com/cin-framework/cin-cli/releases)
+[Releases](https://github.com/cin-framework/cin-cli/releases)
 
 ### 2. Installation
 Then place your version in a main website folder, i.e., in the location where you want to build your web application, such as placing it in `C:\xampp\htdocs` or any location you prefer.
