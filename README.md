@@ -6,10 +6,6 @@
 
 **CIN-CLI** is a comprehensive command-line tool specifically designed to manage the **CIN Framework** with ease and speed.
 
-<div align="center">
-  <img src="assets/Screenshot/Screenshot_CIN-CLI.png" alt="CIN-CLI Screenshot" width="800">
-</div>
-
 ### @ Core Capabilities
 
 **CIN-CLI** provides a flexible command-line interface that empowers developers with:
@@ -74,6 +70,11 @@ Then place your version in a main website folder, i.e., in the location where yo
 **Important Note:** You must know that the location where you place `cin-cli` is the same location where the framework and **CIN** libraries will be downloaded.
 
 ### 3. Running the Program
+
+<div align="center">
+  <img src="assets/Screenshot/Screenshot_CIN-CLI.png" alt="CIN-CLI Screenshot" width="800">
+</div>
+
 After that, you can run the program using the following commands:
 
 **On Linux/macOS systems:**
