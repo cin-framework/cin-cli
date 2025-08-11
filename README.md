@@ -1,4 +1,4 @@
-# **CIN-CLI V1.0.0 BETA**
+# **CIN-CLI**
 
 <div align="center">
   <img src="https://github.com/cin-framework/cin-web/raw/main/assets/img/CIN.svg" alt="logo cin framework" width="200" height="200">
@@ -6,21 +6,45 @@
 
 **CIN-CLI** is a comprehensive command-line tool specifically designed to manage the **CIN Framework** with ease and speed.
 
-It provides a flexible command-line interface that allows developers to:
-• Download the framework
-• Install and update it
-• Manage it completely from any development environment or server
+<div align="center">
+  <img src="assets/Screenshot/Screenshot_CIN-CLI.png" alt="CIN-CLI Screenshot" width="800">
+</div>
 
-It also allows:
-• Download and manage official **CIN** libraries
-• Fix the system when any issues occur
-• Configure new applications from scratch
+### @ Core Capabilities
 
-It is fully responsible for all commands in the **CIN** system, and has been designed to be:
-• Lightweight
-• Fast response
-• Scalable to meet the needs of complex projects
-• With direct support for integration with the internal **CIN** architecture
+**CIN-CLI** provides a flexible command-line interface that empowers developers with:
+
+```
+╭─────────────────────────────────────────────────────────╮
+  ▶ Download the framework                               
+  ▶ Install and update it seamlessly                     
+  ▶ Manage it completely from any development            
+    environment or server                                
+╰─────────────────────────────────────────────────────────╯
+```
+
+### @ Advanced Features
+
+```
+╭─────────────────────────────────────────────────────────╮
+  ◆ Download and manage official CIN libraries           
+  ◆ Fix the system when any issues occur                 
+  ◆ Configure new applications from scratch              
+╰─────────────────────────────────────────────────────────╯
+```
+
+### @ Architecture Excellence
+
+**CIN-CLI** is fully responsible for all commands in the **CIN** system, engineered to deliver:
+
+```
+╔═══════════════════════════════════════════════════════════╗
+  ✦ Lightweight           → Minimal resource footprint     
+  ✦ Fast response         → Optimized performance          
+  ✦ Scalable              → Complex project ready          
+  ✦ Native integration    → CIN architecture support       
+╚═══════════════════════════════════════════════════════════╝
+```
 
 • **Automated Testing**: Generate and run comprehensive test suites for your applications
 • **Performance Optimization**: Built-in tools for code analysis and performance enhancement
@@ -31,8 +55,18 @@ It is fully responsible for all commands in the **CIN** system, and has been des
 ## How to Use
 
 ### 1. Download the Program
+### 1.1. Supported systems
+CIN-CLI is supported on the following operating systems:
+
+<div align="center">
+
+| <img src="assets/png/windows.png" alt="Windows" width="80" height="80"><br>**Windows**<br>(64-bit) | <img src="assets/png/macOS.png" alt="macOS" width="80" height="80"><br>**macOS**<br>(Intel 64-bit)<br>(Apple Silicon - M1/M2/M3/etc. - ARM64) | <img src="assets/png/linux.png" alt="Linux" width="80" height="80"><br>**Linux**<br>(64-bit) |
+|:---:|:---:|:---:|
+
+</div>
+
 First, you must choose the appropriate version. Here are the available versions:
-[releases](https://github.com/cin-framework/cin-cli/releases)
+[https://github.com/cin-framework/cin-cli/releases](https://github.com/cin-framework/cin-cli/releases)
 
 ### 2. Installation
 Then place your version in a main website folder, i.e., in the location where you want to build your web application, such as placing it in `C:\xampp\htdocs` or any location you prefer.
@@ -55,13 +89,23 @@ cin-cli
 **On Windows system:**
 You can try running the `.exe` file directly without commands, and the command window dedicated to **CIN-CLI** will open.
 
-### 4. Using Commands
+### 4. [Using Commands](COMMANDS.md)
 After opening the **CIN-CLI** command window, you can enter the `help` command and all the commands that can be used will appear:
 
 ```bash
 help
 ```
+[Commands More](COMMANDS.md)
 
-### 5. Learn More
+### 5. [Learn More](https://www.cin-framework.com)
 You can learn more about **CIN Framework** through the official website:
 [www.cin-framework.com](https://www.cin-framework.com)
+
+## License
+
+This CLI tool is proprietary software.  
+All rights are reserved by **CIN CLI**.  
+You may **modify** the source code for personal or internal use.  
+You may **NOT** redistribute, sublicense, or sell this CLI tool in any form.
+
+> © 2025 CIN CLI — All Rights Reserved.
