@@ -90,7 +90,7 @@ cin-cli
 **On Windows system:**
 You can try running the `.exe` file directly without commands, and the command window dedicated to **CIN-CLI** will open.
 
-### 4. [Using Commands](COMMANDS.md)
+### 4. Using Commands
 After opening the **CIN-CLI** command window, you can enter the `help` command and all the commands that can be used will appear:
 
 ```bash
@@ -98,7 +98,7 @@ help
 ```
 [Commands More](COMMANDS.md)
 
-### 5. [Learn More](https://www.cin-framework.com)
+### 5. Learn More
 You can learn more about **CIN Framework** through the official website:
 [www.cin-framework.com](https://www.cin-framework.com)
 
