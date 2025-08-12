@@ -1,4 +1,4 @@
-# **CIN CLI V0.1.0 ALPHA**
+# **CIN-CLI**
 
 <div align="center">
   <img src="https://github.com/cin-framework/cin-web/raw/main/assets/img/CIN.svg" alt="logo cin framework" width="200" height="200">
@@ -109,6 +109,4 @@ All rights are reserved by **CIN CLI**.
 You may **modify** the source code for personal or internal use.  
 You may **NOT** redistribute, sublicense, or sell this CLI tool in any form.
 
-
 > © 2025 CIN FRAMEWORK — All Rights Reserved.
-

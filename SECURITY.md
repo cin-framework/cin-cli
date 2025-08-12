@@ -2,29 +2,28 @@
 
 <div align="center">
   <img src="assets/png/windows.png" alt="Windows" width="64">
-  <h3>🔒 CIN Framework CLI Security</h3>
+  <h3>/* CIN Framework CLI Security */</h3>
 </div>
 
-## 🛡️ Supported Versions
+## Supported Versions
 
 We take security seriously and provide security updates for the following versions:
 
 | Version | Supported | Platform | Status |
 | ------- | --------- | -------- | ------ |
-| v0.1.0-alpha | ✅ | Windows (64-bit) | Active Development |
-| < v0.1.0 | ❌ | All | Not Supported |
+| v0.1.0-alpha | [*] | Windows (64-bit) | Active Development |
 
-## 🚨 Reporting a Vulnerability
+## Reporting a Vulnerability
 
 If you discover a security vulnerability in CIN Framework CLI, please report it responsibly:
 
-### 📧 Contact Information
+### Contact Information
 
 - **Primary Contact**: [admin@cin-framework.com](mailto:admin@cin-framework.com)
 - **Alternative**: Create a private issue on GitHub
 - **Response Time**: We aim to respond within 48 hours
 
-### 📋 What to Include
+### What to Include
 
 When reporting a vulnerability, please include:
 
@@ -38,7 +37,7 @@ When reporting a vulnerability, please include:
 ╰─────────────────────────────────────────────────────────╯
 ```
 
-## 🔐 Security Measures
+## Security Measures
 
 ### Current Implementation
 
@@ -58,14 +57,14 @@ When reporting a vulnerability, please include:
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-## ⚠️ Known Limitations (Alpha Version)
+## Known Limitations (Alpha Version)
 
 - **Platform Support**: Currently limited to Windows 64-bit
 - **Configuration**: Local storage without encryption
 - **Network**: Basic HTTPS validation for update checks
 - **Permissions**: Standard user-level permissions
 
-## 🛠️ Security Best Practices
+## Security Best Practices
 
 ### For Users
 
@@ -91,7 +90,7 @@ When reporting a vulnerability, please include:
    - Security testing for each release
    - Vulnerability scanning
 
-## 📜 Disclosure Policy
+## Disclosure Policy
 
 ### Timeline
 
@@ -109,7 +108,7 @@ We follow responsible disclosure practices:
 - Coordinated disclosure timeline
 - Public advisory after fix is available
 
-## 🏆 Security Recognition
+## Security Recognition
 
 We appreciate security researchers who help improve CIN Framework CLI security:
 
@@ -117,11 +116,11 @@ We appreciate security researchers who help improve CIN Framework CLI security:
 - Security researcher hall of fame (coming soon)
 - Potential bounty program (under consideration)
 
-## 📞 Emergency Contact
+## Emergency Contact
 
 For critical security issues requiring immediate attention:
 
-- **Emergency Email**: [urgent-security@cin-framework.com](mailto:urgent-security@cin-framework.com)
+- **Emergency Email**: [mawi@cin-framework.com](mailto:mawi@cin-framework.com)
 - **Response Time**: Within 24 hours
 - **Escalation**: Direct contact with development team
 
