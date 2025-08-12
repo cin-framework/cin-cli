@@ -20,6 +20,8 @@ If you discover a security vulnerability in CIN Framework CLI, please report it 
 ### Contact Information
 
 - **Primary Contact**: [admin@cin-framework.com](mailto:admin@cin-framework.com)
+- **Technical Support**: [support@cin-framework.com](mailto:support@cin-framework.com)
+- **Development Team**: [dev@cin-framework.com](mailto:dev@cin-framework.com)
 - **Alternative**: Create a private issue on GitHub
 - **Response Time**: We aim to respond within 48 hours
 
@@ -121,6 +123,7 @@ We appreciate security researchers who help improve CIN Framework CLI security:
 For critical security issues requiring immediate attention:
 
 - **Emergency Email**: [mawi@cin-framework.com](mailto:mawi@cin-framework.com)
+- **Administrative Contact**: [admin@cin-framework.com](mailto:admin@cin-framework.com)
 - **Response Time**: Within 24 hours
 - **Escalation**: Direct contact with development team
 

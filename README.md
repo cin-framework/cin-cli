@@ -109,4 +109,6 @@ All rights are reserved by **CIN CLI**.
 You may **modify** the source code for personal or internal use.  
 You may **NOT** redistribute, sublicense, or sell this CLI tool in any form.
 
+For support or inquiries, contact us at: **support@cin-framework.com**
+
 > © 2025 CIN FRAMEWORK — All Rights Reserved.
