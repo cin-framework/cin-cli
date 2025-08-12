@@ -4,6 +4,15 @@
   <img src="https://github.com/cin-framework/cin-web/raw/main/assets/img/CIN.svg" alt="logo cin framework" width="200" height="200">
 </div>
 
+<div align="center">
+  
+[![Official Website](https://img.shields.io/badge/Official_Website-www.cin--framework.com-dc2626?style=for-the-badge)](https://www.cin-framework.com)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](LICENSE)
+[![Security](https://img.shields.io/badge/Security-View_Policy-orange?style=for-the-badge)](SECURITY.md)
+[![Commands](https://img.shields.io/badge/Commands-Documentation-blue?style=for-the-badge)](COMMANDS.md)
+  
+</div>
+
 **CIN-CLI** is a comprehensive command-line tool specifically designed to manage the **CIN Framework** with ease and speed.
 
 ### @ Core Capabilities
