@@ -70,11 +70,6 @@ Then place your version in a main website folder, i.e., in the location where yo
 **Important Note:** You must know that the location where you place `cin-cli` is the same location where the framework and **CIN** libraries will be downloaded.
 
 ### 3. Running the Program
-
-<div align="center">
-  <img src="assets/Screenshot/Screenshot_CIN-CLI.png" alt="CIN-CLI Screenshot" width="800">
-</div>
-
 After that, you can run the program using the following commands:
 
 **On Linux/macOS systems:**
@@ -88,6 +83,11 @@ cin-cli
 ```
 
 **On Windows system:**
+
+<div align="center">
+  <img src="assets/Screenshot/Screenshot_CIN-CLI.png" alt="CIN-CLI Screenshot" width="800">
+</div>
+
 You can try running the `.exe` file directly without commands, and the command window dedicated to **CIN-CLI** will open.
 
 ### 4. Using Commands
