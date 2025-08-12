@@ -110,4 +110,5 @@ You may **modify** the source code for personal or internal use.
 You may **NOT** redistribute, sublicense, or sell this CLI tool in any form.
 
 
-> © 2025 CIN CLI — All Rights Reserved.
+> © 2025 CIN FRAMEWORK — All Rights Reserved.
+
