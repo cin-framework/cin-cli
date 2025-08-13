@@ -129,8 +129,6 @@ For critical security issues requiring immediate attention:
 
 ---
 
-<div align="center">
-  <strong>© 2025 CIN Framework — Security is our priority</strong>
-</div>
+**Note**: This security policy applies to CIN Framework CLI v0.1.0-alpha and will be updated as the project evolves.
 
-> **Note**: This security policy applies to CIN Framework CLI v0.1.0-alpha and will be updated as the project evolves.
+> © CIN FRAMEWORK — All Rights Reserved.

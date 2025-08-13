@@ -104,4 +104,4 @@ For comprehensive development guidelines, security standards, performance optimi
 
 > **Note**: This contributing guide is specific to CIN Framework CLI v0.1.0-alpha and will be updated as the project evolves.
 
-© 2025 CIN Framework — Open Source Contributions Welcome
+> CIN FRAMEWORK — All Rights Reserved.

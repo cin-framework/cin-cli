@@ -30,3 +30,5 @@ Original text courtesy of the [Speak Up! project](http://web.archive.org/web/201
 ## Questions?
 
 If you have questions, please see [Faq](https://www.cin-framework.com/p/0.html?page=faq). If that doesn't answer your questions, feel free to [contact us](mailto:support@cin-framework.com).
+
+> © CIN FRAMEWORK — All Rights Reserved.

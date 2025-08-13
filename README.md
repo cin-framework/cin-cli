@@ -120,4 +120,4 @@ You may **NOT** redistribute, sublicense, or sell this CLI tool in any form.
 
 For support or inquiries, contact us at: **support@cin-framework.com**
 
-> © 2025 CIN FRAMEWORK — All Rights Reserved.
+> © CIN FRAMEWORK — All Rights Reserved.
