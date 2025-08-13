@@ -1,7 +1,7 @@
 # **CIN-CLI**
 
 <div align="center">
-  <img src="https://github.com/cin-framework/cin-web/raw/main/assets/img/CIN.svg" alt="logo cin framework" width="200" height="200">
+  <img src="https://cin-framework.github.io/.github/assets/img/CIN.svg" alt="logo cin framework" width="200" height="200">
 </div>
 
 <div align="center">
